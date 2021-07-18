@@ -2,8 +2,8 @@
 
 I'm Eduardo Burko a.k.a Phantoxe . I'm a developer websites, mobile apps. Currently my stack is:
 
-💻 Web front-end development with ReactJs and Vue3
-📱 Mobile applications for Android and iOS with React Native and Ionic
+💻 Web front-end development with ReactJs and Vue3<br/>
+📱 Mobile applications for Android and iOS with React Native and Ionic<br/>
 💾 Database: Firebase (Cloud Firestore/Real Time)
 
 But, I also used it in projects:      
