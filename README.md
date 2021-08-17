@@ -2,9 +2,10 @@
 
 I'm Eduardo Burko a.k.a Phantoxe . I'm a developer websites, mobile apps. Currently my stack is:
 
-💻 Web front-end development with ReactJs and Vue3<br/>
-📱 Mobile applications for Android and iOS with React Native and Ionic<br/>
-💾 Database: Firebase (Cloud Firestore/Real Time)
+💻 Web front-end development with ReactJs<br/>
+💻 Web back-end development with NODEJs<br/>
+📱 Mobile applications for Android and iOS with React Native<br/>
+💾 Database: Firebase (Cloud Firestore/Real Time - NOSQL) or SUPABASE (PostgreSQL)
 
 But, I also used it in projects:      
 
