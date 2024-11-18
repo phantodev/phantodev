@@ -4,7 +4,7 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](your-portfolio-url)
 
 ## 💫 Sobre Mim
-Sou um desenvolvedor Front-End apaixonado por criar experiências web excepcionais desde 2019, com raízes em Web Design desde 2005. Minha jornada inclui trabalhos com startups e grandes corporações, onde meus projetos contribuíram significativamente para o sucesso financeiro e crescimento das empresas.
+Sou um desenvolvedor Front-End apaixonado por criar experiências web excepcionais desde 2018, com raízes em Web Design desde 2005. Minha jornada inclui trabalhos com startups e grandes corporações, onde meus projetos contribuíram significativamente para o sucesso financeiro e crescimento das empresas.
 
 ## 🚀 Tecnologias & Ferramentas
 
